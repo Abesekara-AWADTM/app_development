@@ -1,4 +1,7 @@
-import Expenses from "./components/Expenses";
+import Expenses from "./components/Expenses/Expenses";
+
+
+//  const App =()=>{}      other way of defining function
 
 function App() {
   const expenses = [
